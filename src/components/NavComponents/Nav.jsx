@@ -14,7 +14,7 @@ const Nav = () => {
             <h1 className="font-bold text-2xl">Olivia Foods</h1>
           </a>
         </div>
-        <div style={{fontWeight:'600'}}>This is MPA</div>
+        <div style={{fontWeight:'600'}}>This is SPA</div>
         <ul className="flex justify-center items-center md:hidden ">
           <li>
             <Link to="/home">Home</Link>
